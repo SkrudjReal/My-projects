@@ -7,5 +7,6 @@ This repo for all my projects links
 
 *https://t.me/Scroogees* Telegram channel, userbot for BioWar(mini-game in **iris_cm_bot**)
 
-![userbot review](https://github.com/SkrudjReal/My-projects/assets/76687908/5bd7c82d-e041-4a61-8891-1fd9c88fbfd4)
+![userbot review](https://github.com/SkrudjReal/My-projects/assets/76687908/25547fec-f1f5-4b99-8c03-8ab4676f51e7)
+
 
