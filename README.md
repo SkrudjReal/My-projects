@@ -14,7 +14,8 @@ This repo for all my projects links
 
 ## Epidemic
 
-https://t.me/epidemic_news Channgel
+https://t.me/epidemic_news Channel
+
 https://t.me/epidemic_gamebot Bot
 
 Developers Team
