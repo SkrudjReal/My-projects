@@ -14,11 +14,15 @@ This repo for all my projects links
 
 ## Epidemic
 
-https://t.me/epidemic_news Channel
-
-https://t.me/epidemic_gamebot Bot
+<ol>
+<li>https://t.me/epidemic_news Channel </li>
+<li>https://t.me/epidemic_gamebot Bot </li>
+</ol>
 
 Developers Team
 
-@SkrudjReal
-@shomstr
+<ol>
+<li>@SkrudjReal</li>
+<li>@shomstr</li>
+</ol>
+
