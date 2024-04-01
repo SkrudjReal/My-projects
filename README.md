@@ -10,3 +10,14 @@ This repo for all my projects links
 ![userbot review](https://github.com/SkrudjReal/My-projects/assets/76687908/25547fec-f1f5-4b99-8c03-8ab4676f51e7)
 
 
+# Currently working on
+
+## Epidemic
+
+https://t.me/epidemic_news Channgel
+https://t.me/epidemic_gamebot Bot
+
+Developers Team
+
+@SkrudjReal
+@shomstr
